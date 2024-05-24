@@ -4,11 +4,11 @@ Hello, my name is Hatim. I am a graduate with a bachelor's degree in intelligent
 
 ## Education
 
-2022/2023 - Bachelor's degree in intelligent engineering of computer systems.
+**Bachelor's degree in intelligent engineering of computer systems** (_2022 - 2023_).
 
-2020/2022 - Associate degree in Specialized computer development technician.
+**Associate degree in Specialized Computer Development Technician** (_2020 - 2022_).
 
-2019/2020 - High School degree in Physics/Chemistry.
+**High School degree in Physics/Chemistry** (_2019 - 2020_).
 
 ## Work Experience
 
