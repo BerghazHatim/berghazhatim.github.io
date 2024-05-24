@@ -55,7 +55,7 @@ The development of several autonomous agents using 'LangChain' as part of my int
   - OpenAI LLMs.
   - Flask API.
 
-- Potato disease classifier : This project aims to develop a potato disease classification system using:
+- **Potato disease classifier** : This project aims to develop a potato disease classification system using:
   - Image Preprocessing.
   - CNN.
   - and API using FastAPI.
