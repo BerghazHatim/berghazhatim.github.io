@@ -60,3 +60,5 @@ The development of several autonomous agents using 'LangChain' as part of my int
 
 ### Certificats
 - Neural Networks and Deep Learning authorized by DeepLearning.AI
+![NN and DL Certificats](/berghazhatim.github.io/assets/img/Certificat1.png)
+
