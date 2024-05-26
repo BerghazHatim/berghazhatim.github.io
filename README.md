@@ -38,7 +38,7 @@ The development of several autonomous agents using 'LangChain' as part of my int
 - **Web Developement Front-End** : HTML, CSS, JS, BOOTSTRAP.
 
 ## Projects
-- **Desktop Application Development**: Developement of a desktop application using C# (ADO.NET) and SQL Server under th name 'Happy Health' a hospital reservation management application where you can :
+- **Desktop Application Development**: Development of a desktop application using C# (ADO.NET) and SQL Server under the name 'Happy Health' a hospital reservation management application where you can :
     - Store Staff information.
     - Keep on track with reservations, shift hours, available and occupied patient rooms.
     - Store patients documents.
@@ -50,7 +50,7 @@ The development of several autonomous agents using 'LangChain' as part of my int
     - HyperParameter Tuning using GridSearchSV.
     - Building the web page and the web API with Flask API.
 
-- **Autonomous Agents** : Development of several autonomous agents using 'LangChain' under the name 'Autonomous Agents:
+- **Autonomous Agents** : Development of several autonomous agents using 'LangChain' under the name 'Autonomous Agents':
   - LangChain Toolkits and functionalities.
   - OpenAI LLMs.
   - Flask API.
