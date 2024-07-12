@@ -35,7 +35,7 @@ The development of several autonomous agents using 'LangChain' as part of my int
 - **Statistical Analysis**.
 - **Distributed Version Control System** : Git.
 - **Google/Pack Office** : Google Office Suite, Microsoft Office Suite.
-- **Web Developement Front-End** : HTML, CSS, JS, BOOTSTRAP.
+- **Web Developement** : HTML, CSS, JS, BOOTSTRAP, PHP.
 
 ## Projects
 - **Desktop Application Development**: Development of a desktop application using C# (ADO.NET) and SQL Server under the name 'Happy Health' a hospital reservation management application where you can :
@@ -64,4 +64,16 @@ The development of several autonomous agents using 'LangChain' as part of my int
 - Neural Networks and Deep Learning authorized by DeepLearning.AI
 
 ![NN and DL Certificats](/assets/img/Certificat1.png)
+
+- Python for Data Science, AI & Development authorized by IBM
+
+![Python for Data Science, AI & Development Certificats] (/assets/img/Certificat2.png)
+
+- Data Science Methodology authorized by IBM
+
+![Data Science Methodology] (/assets/img/Certificat3.png)
+
+- Databases and SQL for Data Science  authorized by IBM
+
+![Databases and SQL for Data Science ] (/assets/img/Certificat4.png)
 
