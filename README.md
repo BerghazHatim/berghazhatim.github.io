@@ -67,13 +67,13 @@ The development of several autonomous agents using 'LangChain' as part of my int
 
 - Python for Data Science, AI & Development authorized by IBM
 
-![Python for Data Science, AI & Development Certificats](/assets/img/Certificat2.jpg)
+![Python for Data Science, AI & Development Certificats](/assets/img/Cerftificat2.jpg)
 
 - Data Science Methodology authorized by IBM
 
-![Data Science Methodology](/assets/img/Certificat3.jpg)
+![Data Science Methodology](/assets/img/Cerftificat3.jpg)
 
 - Databases and SQL for Data Science  authorized by IBM
 
-![Databases and SQL for Data Science ](/assets/img/Certificat4.jpg)
+![Databases and SQL for Data Science ](/assets/img/Cerftificat4.jpg)
 
